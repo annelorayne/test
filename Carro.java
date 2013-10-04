@@ -1,6 +1,7 @@
 class Carro {
 	private String modelo;
 	private int ano;
+        private String marca;        
 	
 	public String getModelo() {
 		return modelo;
@@ -13,6 +14,12 @@ class Carro {
 	}
 	public void setAno(int ano) {
 		this.ano = ano;
+	}
+	public String getMarca(){
+		return marca;
+	}
+	public void setMarca(String marca){
+		this.marca = marca;
 	}
 }
 

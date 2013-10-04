@@ -2,6 +2,10 @@ class CarroNovo{
 	private String modelo;
 	private int ano;
 	
+
+	public String getModeloNovo(){
+		return modelo+" Novo";
+	}	
 	public String getModelo() {
 		return modelo;
 	}
