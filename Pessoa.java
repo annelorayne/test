@@ -5,4 +5,8 @@ public class Pessoa{
 	public String getBracos() {
 		return bracos;
 	}
+	
+	public String getPernas() {
+		return pernas;
+	}
 }
