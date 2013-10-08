@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Trash again
-=======
-Trash
->>>>>>> 23547e38efba2fe1b8a395f0d3fab132f148073c
+Trash again tuts tuts
